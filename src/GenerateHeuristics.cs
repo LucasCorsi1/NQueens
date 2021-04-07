@@ -10,9 +10,9 @@ namespace NQueensSimulatedAnnealing.src
 
         private static int[] RandomState(int[] randomState)
         {
-            var rnd = new Random();
+            var random = new Random();
             for (var i = 0; i < randomState.Length; i++)
-                randomState[i] = rnd.Next(randomState.Length);
+                randomState[i] = random.Next(randomState.Length);
 
             return randomState;
         }

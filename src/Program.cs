@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Linq;
 
 namespace NQueensSimulatedAnnealing.src
 {
@@ -30,8 +31,7 @@ namespace NQueensSimulatedAnnealing.src
             if (solution == null)
                 Console.WriteLine("Sem Solução para propriedades selecionadas");
             else
-                foreach (var queens in solution)
-                    Console.WriteLine(queens);
+                solution.ToList().ForEach(Console.WriteLine); //solução
             Console.ReadKey();
         }
     }

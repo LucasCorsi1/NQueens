@@ -18,14 +18,17 @@ namespace NQueensSimulatedAnnealing.src
 
             var heuristicCost = GenerateHeuristics.GetHeuristicCost(randomState);
             var count = 0;
-            for (var x = 0; x < maxIterations && heuristicCost > 0; x++)
+            var countheristic = 0;
+            for (var i = 0; i < maxIterations && heuristicCost > 0; i++)
             {
                 randomState = MoveQueens(randomState, heuristicCost, temperature);
                 heuristicCost = GenerateHeuristics.GetHeuristicCost(randomState);
                 temperature = Math.Max(temperature * variableCoolingFactor, 0.01);
                 count++;
+                countheristic += heuristicCost;
                 Console.WriteLine("Custo da Heuristica : " + heuristicCost);
             }
+            Console.WriteLine("Custo Total da Heuristica : " + countheristic);
             Console.WriteLine("Numero de Iterações: " + count);
             return heuristicCost == 0 ? randomState : null;
         }
