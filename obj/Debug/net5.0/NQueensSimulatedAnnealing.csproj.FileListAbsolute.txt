@@ -1,0 +1,16 @@
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.exe
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.deps.json
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.runtimeconfig.json
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.runtimeconfig.dev.json
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.dll
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\ref\NQueensSimulatedAnnealing.dll
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\bin\Debug\net5.0\NQueensSimulatedAnnealing.pdb
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.csprojAssemblyReference.cache
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.AssemblyInfoInputs.cache
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.AssemblyInfo.cs
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.csproj.CoreCompileInputs.cache
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.dll
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\ref\NQueensSimulatedAnnealing.dll
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.pdb
+C:\Users\lucasc\source\repos\NQueensSimulatedAnnealing\obj\Debug\net5.0\NQueensSimulatedAnnealing.genruntimeconfig.cache
